@@ -33,7 +33,7 @@ export type SiteConfig = {
 const siteConfig: SiteConfig = {
     title: 'Chase Tramel',
     subtitle: 'Technical Writer',
-    description: 'This is a description for the site',
+    description: 'Portfolio site for Chase Tramel, a technical writer based in Central Florida.',
     headerNavLinks: [
         {
             text: 'Home',
@@ -75,10 +75,6 @@ const siteConfig: SiteConfig = {
     hero: {
     title: 'Hello there!',
         text: "I'm **Chase Tramel**, a technical writer based in Central Florida. I  use this site to write about web development, technical writing, and project management. If you're looking for someone to help with your documentation, tutorials, or blog posts, I'd love to hear from you!",
-        image: {
-            src: '/hero.jpeg',
-            alt: 'A person sitting at a desk in front of a computer'
-        },
         actions: [
             {
                 text: 'Get in Touch',
