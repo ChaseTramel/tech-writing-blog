@@ -11,13 +11,13 @@ Why technical writing, you ask? Well, it’s simple. I adore the challenge of br
 
 ## Here’s a little more about me:
 
-Technology: With a solid foundation in front-end development and an insatiable curiosity for all things tech, I’ve honed my ability to translate code into conversations. My secret weapon? Markdown! It’s not just a syntax for me; it’s a way to craft stories that resonate.
+- Technology Whisper: With a solid foundation in front-end development and an insatiable curiosity for all things tech, I’ve honed my ability to translate code into conversations. My secret weapon? Markdown! It’s not just a syntax for me; it’s a way to craft stories that resonate.
 
-Git & GitHub: Version control is amazing. I thrive on the collaborative spirit of GitHub. It's where my project management skills really shine, keeping everything organized and moving forward.
-M
-Event Host and WordPress Wizard: From orchestrating events that bring communities together to managing WordPress websites with a flair for design, I've got the knack for creating experiences online and offline that are memorable and engaging.
+- Git & GitHub: Version control is amazing. I thrive on the collaborative spirit of GitHub. It's where my project management skills really shine, keeping everything organized and moving forward.
 
-Community Builder: Whether it’s leading a team of volunteers at an animal shelter or managing a bustling Discord server, I believe in the power of community. It’s all about connecting, sharing, and growing together.
+- Event Host & WordPress Wizard: From orchestrating events that bring communities together to managing WordPress websites with a flair for design, I've got the knack for creating experiences online and offline that are memorable and engaging.
+
+- Community Builder: Whether it’s leading a team of volunteers at an animal shelter or managing a bustling Discord server, I believe in the power of community. It’s all about connecting, sharing, and growing together.
 
 ## My Journey
 
