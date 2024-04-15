@@ -23,7 +23,7 @@ Why technical writing, you ask? Well, it’s simple. I adore the challenge of br
 
 My path has been anything but ordinary. From tutoring students at Eastern Florida State College to being an event planner, website manager, and even a game room manager, every experience has enriched my understanding of how people interact with technology. Along the way, I've picked up a couple of accolades, like the Citizen Scholar Honor and the Provost Personal Achievement Award, which remind me that hard work and dedication never go unnoticed.
 
-Looking Forward:
+## Looking Forward
 
 As I continue my adventure in the tech world, I’m always on the lookout for new opportunities to learn and grow. My personal journey is proof that my belief that with the right words, any technical concept can become accessible and engaging.
 
